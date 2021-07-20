@@ -80,7 +80,7 @@
 					<wtpversion>2.0</wtpversion>
 				</configuration>
 			</plugin>	
-			<!-- Set JDK Compiler Level -->
+			<!-- Set JDK Compiler Level "commented"-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
